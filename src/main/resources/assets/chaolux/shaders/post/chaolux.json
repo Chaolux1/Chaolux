@@ -1,0 +1,17 @@
+{
+  "targets": [
+    "chaolux"
+  ],
+  "passes": [
+    {
+      "name": "chaolux_tone",
+      "intarget": "minecraft:main",
+      "outtarget": "chaolux"
+    },
+    {
+      "name": "blit",
+      "intarget": "chaolux",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

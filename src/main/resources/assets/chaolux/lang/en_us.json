@@ -1,0 +1,15 @@
+{
+  "item.chaolux.eye": "Eye",
+
+  "key.categories.chaolux": "Chaolux",
+  "key.chaolux.camera": "Camera precision / reset",
+  "key.chaolux.shader": "Toggle Chaolux shader",
+  "key.chaolux.move_camera": "Move Camera",
+
+  "screen.chaolux.weather": "Weather",
+  "screen.chaolux.custom_time": "Custom time",
+  "screen.chaolux.weather_f6": "[ F6 ]",
+
+  "message.chaolux.shader_on": "Chaolux shader: ON",
+  "message.chaolux.shader_off": "Chaolux shader: OFF"
+}
