@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "chaolux",
+    "name": "Chaolux",
+    "version": "${modVersion}",
+    "mcversion": "1.7.10",
+    "description": "",
+    "url": "",
+    "credits": "",
+    "authorList": ["Chaolux"],
+    "dependencies": []
+  }
+]
